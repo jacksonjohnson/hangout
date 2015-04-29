@@ -58,7 +58,7 @@ Do this where the project will live e.g. 'hangout'
 
 - configure the local python path::
 
-    echo 'export PYTHONPATH=$PYTHONPATH:~/projects/hangout' >> ~/projects/hangout/vevn/bin/activate
+    echo 'export PYTHONPATH=$PYTHONPATH:~/projects/hangout' >> ~/projects/hangout/venv/bin/activate
     echo 'export PATH=~/projects/hangout:$PATH' >> ~/projects/hangout/venv/bin/activate
 
 
